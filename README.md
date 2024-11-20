@@ -1,1 +1,1 @@
-# This repository contains solutions to common JavaScript tasks and a simple front-end interactive feature. Each task is implemented with clean and functional code to demonstrate problem-solving skills and basic web development concepts.
+# This repository contains solutions to common JavaScript tasks and a simple front-end interactive feature. Each task is implemented with clean and functional code to demonstrate problem-solving skills
